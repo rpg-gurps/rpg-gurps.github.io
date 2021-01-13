@@ -3,7 +3,7 @@
 
 AUTHOR = 'yscman'
 SITENAME = 'Epic Gurps'
-# SITEURL = 'rpg-gurps.github.io'
+SITEURL = 'rpg-gurps.github.io'
 SITETITLE = "JG Dungeon"
 SITESUBTITLE = "Bloody Adventures"
 SITEDESCRIPTION = "A place where luck and wits speak volumes"
