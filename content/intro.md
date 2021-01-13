@@ -5,25 +5,29 @@ date: 01-13-2021
 
 ![static ](images/logo_heros_rpg.jpeg) 
 
-“Quais deuses criaram Yrth poucos sabem ao certo, o que se sabe é quando os primeiros humanos chegaram ao mundo.
-A data numérica varia de povo para povo. Entre os próprios humanos demorou até haver consenso. Alguns diziam ser o ano 
-1050 depois da chegada de seu profeta, filho de seu único Deus. Outros, de origem árabe ou oriental usavam datas mais 
+##Prólogo
+---
+“Quais deuses criaram **Yrth** poucos sabem ao certo, o que se sabe é quando os primeiros humanos chegaram ao mundo.
+A data numérica varia de povo para povo. Até mesmo entre os humanos demorou para chegar a um consenso. Alguns diziam ser o ano 
+1050 depois da chegada do seu profeta, filho de seu único Deus. Outros, de origem árabe ou oriental usavam datas mais 
 antigas. Por fim, ficou determinado como Ano Zero o ano do Cataclisma.
-No princípio, Ytarria era um continente de Elfos, Anões e Orcs – e Elfos Negros, uma ramificação sombria e intolerante 
+No princípio, **Ytarria** era um continente de *Elfos*, *Anões*, ~~**_Orcs_**~~... e *Elfos Negros*, uma ramificação sombria e intolerante 
 do belo povo. Estes, cansados de lidar com os Orcs, tentaram exterminá-los de uma vez por todas. Por anos seus maiores 
-magos trabalharam para encontrar A Solução Final. 
+magos trabalharam para encontrar **A Solução Final**. 
 
 Por fim, reuniram-se em um poderoso ritual mágico que expurgaria essa terrível raça da face do planeta.
 
-O encantamento não só não funcionou, como o que se sucedeu foi um enorme choque-de-retorno. A magia implodiu tão 
+O encantamento não só **não** funcionou, como o que se sucedeu foi um enorme choque-de-retorno. A magia implodiu tão 
 violentamente que abriu um vórtex, um enorme portal dimensional, que sugou e conjurou diversas outras raças de diversos 
-outros mundos para Yrth. O evento foi posteriormente nomeado como Cataclisma.
-Os primeiros que chegaram foram os Goblins, Hobgoblins, Kobolds e Repitantes, de uma terra árida e brutal chamada 
-Gabrook; do idílico mundo-floresta de Loren’dil vieram os Hobbits, Gigantes, Centauros, Faunos e Fadas; outros seres e 
-outras bestas vieram de outros mundos igualmente fantásticos. Mas dizem que os dragões, assim como elfos, anões e orcs, 
-são originários de Yrth. E uma das criaturas prediletas dos deuses.
-O povo mais numeroso a aportar em Yrth, no entanto, foram os humanos, do mundo Terra. Numeroso e avassaladores. Tão 
+outros mundos para Yrth. O evento foi posteriormente nomeado como **Cataclisma**.
+Os primeiros seres que chegaram foram os *Goblins*, *Hobgoblins*, *Kobolds* e *Repitantes*, de uma terra árida e brutal chamada 
+**Gabrook**; do idílico mundo-floresta de **Loren’dil** vieram os *Hobbits*, *Gigantes*, *Centauros*, *Faunos* e *Fadas*; outros seres e 
+outras bestas vieram de outros mundos igualmente **fantásticos**. Mas dizem que os **dragões**, assim como *elfos*, *anões* e *orcs*, 
+são originários de Yrth. E são parte das criaturas prediletas dos **_deuses_**.
+
+O povo mais numeroso a aportar em Yrth, no entanto, foram os humanos, do planeta chamado Terra. Numeroso e avassaladores. Tão 
 logo se deram conta de onde estavam, iniciaram seu domínio.
+
 Os primeiros Séculos DC – Depois do Cataclisma – foram de conquistas, expansão e guerras. Primeiro dos homens contra as 
 demais raças, depois, entre eles próprios. Logo notaram que, apesar de parecido com a Terra, Yrth contava com um 
 componente extra: Mana – essência da magia – exalava do solo. Porém, havia variabilidade, e eles logo trataram de 
@@ -34,6 +38,7 @@ Al-Haz, Al Wazif e Al-Kard; os orientais foram transportados para a parte norte,
 (reino de Zarak dos Anões), dominaram a península de Sahûd, e por lá ficaram, isolados do mundo. O terceiro povo 
 humano foi o povo nórdico, também transportados na região norte, além das Cordilheiras dos Picos Nevados. Dominaram 
 aquela terra gélida, com solo de mana inconstante.
+
 Na mesma época, chegaram também os humanos ditos cristãos, crentes em um único deus, O Único Deus, segundo eles. 
 Dominaram a parte setentrional do continente. E não demoraram a converter os demais povos. Os Cavaleiros Hospitales, 
 primeira Ordem de Ytarria, fundaram a cidade de Nova Jerusalém no oeste.  Simon Menelaus, poderoso arquimago e 
@@ -43,7 +48,9 @@ cidade – logo juraram fidelidade aos homens. Pouco depois, o Senhor da Guerra 
 Cavaleiros Hospitalers a também se juntarem ao Império, para propagar a fé cristã. 
 Inúmeras Guerras Santas foram travadas entre cristãos e muçulmanos. Os deuses como testemunhas, provavelmente riram. Os 
 árabes perderam Al-Kard para Mégalos, que posteriormente sofreu uma revolta interna e acabou emancipando-se. A região 
-foi renomeada Cardiel. 
+foi renomeada Cardiel.
+
+![static](images/mapa_yrth.jpg) 
 
 De tempos em tempos, apesar de cada vez mais fraco, o Cataclisma ainda traz visitantes de outros mundos. Os últimos 
 foram humanos renascentistas que pousaram nas ilhas de Araterre, no oceano sul. Tentaram implementar novas tecnologias, 
@@ -67,13 +74,18 @@ Com os reinos praticamente definidos e estabelecidos em todo o continente, Yrth 
 deuses descansaram. Muitas das histórias se perderam, e a maioria das pessoas pôde passar a viver suas vidas com preocupações mais mundanas. 
 No entanto, ainda há aqueles poucos sábios, que dizem que os deuses não se esqueceram da arrogância e prepotência dos 
 Elfos Negros e dizem que a calmaria é o planejamento dos deuses para o novo milênio. Outros profetizam que deve sempre 
-haver um equilíbrio entre deuses da benevolentes e deuses das profundezas... e que quando um lado começa a se sobressair, o outro logo há de combater.”
+haver um equilíbrio entre deuses da benevolentes e deuses das profundezas... e que quando um lado começa a se sobressair, 
+o outro logo há de combater.”
+---
 
-O texto aqui retratado é parte da Balada da Criação – de Lars, o Sábio, traduzida por Jaenyth, a Dama de Prata a pedido 
-do Barão Fenmarc de Harkwood. A parte aqui exposta, ao ser traduzida, infelizmente perdeu sua métrica e rima, e por 
+> O texto aqui retratado é parte da Balada da Criação – de Lars, o Sábio, traduzida por Jaenyth, a Dama de Prata a pedido 
+do Barão Fenmarc de Harkwood. 
+
+A parte aqui exposta, ao ser traduzida, infelizmente perdeu sua métrica e rima, e por 
 opção da tradutora foi transcrita como prosa em vez de verso. 
+
 Dizem que uma cópia completa do manuscrito original, em élfico, pode ser encontrada na biblioteca pessoal do Barão.
 Seja como for, com tradução apurada ou não, com texto em prosa ou versos, com seja qual for a nova profecia do momento, 
 o mundo de Yrth de fato mudou, e essa mudança teve início há quase mil anos.
 
-Agora, faltando 7 anos para o primeiro milênio do Cataclisma, ventos de mudança parecem soprar novamente. 
+Agora, faltando 7 anos para o primeiro milênio do Cataclisma, ventos de mudança sopram novamente. 
