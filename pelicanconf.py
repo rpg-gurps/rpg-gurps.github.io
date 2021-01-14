@@ -64,7 +64,7 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = 10
 
-STATIC_PATHS = ["images", 'extra/CNAME', "extra/favicon.ico"]
+STATIC_PATHS = ["images", "extra"]
 
 EXTRA_PATH_METADATA = {
     "extra/ads.txt": {"path": "ads.txt"},
