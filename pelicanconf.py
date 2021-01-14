@@ -21,7 +21,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = "notmyidea"
+THEME = "pelican-themes/dev-random"
 
 # ROBOTS = "index, follow"
 
