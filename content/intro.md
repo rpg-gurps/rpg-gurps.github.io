@@ -5,7 +5,8 @@ date: 01-13-2021
 
 ![static ](images/logo_heros_rpg_s.jpeg) 
 
-##Prólogo
+#Prólogo
+
 ---
 “Quais deuses criaram **Yrth** poucos sabem ao certo, o que se sabe é quando os primeiros humanos chegaram ao mundo.
 A data numérica varia de povo para povo. Até mesmo entre os humanos demorou para chegar a um consenso. Alguns diziam ser o ano 
@@ -76,6 +77,7 @@ No entanto, ainda há aqueles poucos sábios, que dizem que os deuses não se es
 Elfos Negros e dizem que a calmaria é o planejamento dos deuses para o novo milênio. Outros profetizam que deve sempre 
 haver um equilíbrio entre deuses da benevolentes e deuses das profundezas... e que quando um lado começa a se sobressair, 
 o outro logo há de combater.”
+
 ---
 
 > O texto aqui retratado é parte da Balada da Criação – de Lars, o Sábio, traduzida por Jaenyth, a Dama de Prata a pedido 
