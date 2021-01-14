@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
+import datetime
 
 AUTHOR = 'yscman'
 SITENAME = 'Epic Gurps'
@@ -8,7 +9,7 @@ SITETITLE = "JG Dungeon"
 SITESUBTITLE = "Bloody Adventures"
 SITEDESCRIPTION = "A place where luck and wits speak volumes"
 SITELOGO = 'images/logo_heros_rpg.jpeg'
-FAVICON = 'images/favicon.ico'
+FAVICON = '/images/favicon.ico'
 # BROWSER_COLOR = "#333333"
 # PYGMENTS_STYLE = "monokai"
 DEFAULT_LANG = 'en'
@@ -20,7 +21,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = "notmyidea"
+THEME = "notmyidea-cms"
 
 # ROBOTS = "index, follow"
 
@@ -72,6 +73,7 @@ STATIC_PATHS = ["images"]
 EXTRA_PATH_METADATA = {
     "extra/ads.txt": {"path": "ads.txt"},
     "extra/CNAME": {"path": "CNAME"},
+    "favicon.ico":{"path":"image"}
 }
 
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True

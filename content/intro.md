@@ -3,7 +3,7 @@ author: Game Master (and GURPS Publisher)
 date: 01-13-2021
 
 
-![static ](images/logo_heros_rpg.jpeg) 
+![static ](images/logo_heros_rpg_s.jpeg) 
 
 ##Prólogo
 ---
@@ -11,7 +11,7 @@ date: 01-13-2021
 A data numérica varia de povo para povo. Até mesmo entre os humanos demorou para chegar a um consenso. Alguns diziam ser o ano 
 1050 depois da chegada do seu profeta, filho de seu único Deus. Outros, de origem árabe ou oriental usavam datas mais 
 antigas. Por fim, ficou determinado como Ano Zero o ano do Cataclisma.
-No princípio, **Ytarria** era um continente de *Elfos*, *Anões*, ~~**_Orcs_**~~... e *Elfos Negros*, uma ramificação sombria e intolerante 
+No princípio, **Ytarria** era um continente de *Elfos*, *Anões*, **_Orcs_**... e *Elfos Negros*, uma ramificação sombria e intolerante 
 do belo povo. Estes, cansados de lidar com os Orcs, tentaram exterminá-los de uma vez por todas. Por anos seus maiores 
 magos trabalharam para encontrar **A Solução Final**. 
 
@@ -50,7 +50,7 @@ Inúmeras Guerras Santas foram travadas entre cristãos e muçulmanos. Os deuses
 árabes perderam Al-Kard para Mégalos, que posteriormente sofreu uma revolta interna e acabou emancipando-se. A região 
 foi renomeada Cardiel.
 
-![static](images/mapa_yrth.jpg) 
+![static](images/mapa_yrth_s.jpg) 
 
 De tempos em tempos, apesar de cada vez mais fraco, o Cataclisma ainda traz visitantes de outros mundos. Os últimos 
 foram humanos renascentistas que pousaram nas ilhas de Araterre, no oceano sul. Tentaram implementar novas tecnologias, 
