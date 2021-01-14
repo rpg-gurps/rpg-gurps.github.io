@@ -52,18 +52,15 @@ MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 SOCIAL = (
-    ("github", "https://github.com/yscman"),
-    ("linkedin", "https://www.linkedin.com/in/cvgoncalves/"),
-    ("twitter", "https://twitter.com/cvg_goncalves"),
-    ("stack-overflow", "https://stackoverflow.com/users/13408448/vinny-cvg"),
-    ("envelope", "mailto:cvg.goncalves@protonmail.com"),
+    ("github", "https://github.com/rpg-gurps"),
+    ("instagram", ""),
 )
 
-MENUITEMS = (
-    ("Archives", "/archives.html"),
-    ("Categories", "/categories.html"),
-    ("Tags", "/tags.html"),
-)
+#MENUITEMS = (
+#    ("Archives", "/archives.html"),
+#    ("Categories", "/categories.html"),
+#    ("Tags", "/tags.html"),
+#)
 
 
 DEFAULT_PAGINATION = 10
