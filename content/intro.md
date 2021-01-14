@@ -81,11 +81,11 @@ o outro logo há de combater.”
 > O texto aqui retratado é parte da Balada da Criação – de Lars, o Sábio, traduzida por Jaenyth, a Dama de Prata a pedido 
 do Barão Fenmarc de Harkwood. 
 
-A parte aqui exposta, ao ser traduzida, infelizmente perdeu sua métrica e rima, e por 
-opção da tradutora foi transcrita como prosa em vez de verso. 
+*A parte aqui exposta, ao ser traduzida, infelizmente perdeu sua métrica e rima, e por 
+opção da tradutora foi transcrita como prosa em vez de verso.*
 
-Dizem que uma cópia completa do manuscrito original, em élfico, pode ser encontrada na biblioteca pessoal do Barão.
+*Dizem que uma cópia completa do manuscrito original, em élfico, pode ser encontrada na biblioteca pessoal do Barão.
 Seja como for, com tradução apurada ou não, com texto em prosa ou versos, com seja qual for a nova profecia do momento, 
-o mundo de Yrth de fato mudou, e essa mudança teve início há quase mil anos.
+o mundo de Yrth de fato mudou, e essa mudança teve início há quase mil anos.*
 
 Agora, faltando 7 anos para o primeiro milênio do Cataclisma, ventos de mudança sopram novamente. 
