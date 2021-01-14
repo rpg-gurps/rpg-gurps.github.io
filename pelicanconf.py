@@ -21,7 +21,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = "simple"
+THEME = "notmyidea-cms"
 
 # ROBOTS = "index, follow"
 
