@@ -53,7 +53,6 @@ HOME_HIDE_TAGS = True
 
 SOCIAL = (
     ("github", "https://github.com/rpg-gurps"),
-    ("instagram", ""),
 )
 
 #MENUITEMS = (
@@ -70,7 +69,7 @@ STATIC_PATHS = ["images"]
 EXTRA_PATH_METADATA = {
     "extra/ads.txt": {"path": "ads.txt"},
     "extra/CNAME": {"path": "CNAME"},
-    "favicon.ico":{"path":"image"}
+    "extra/favicon.ico":{"path":"favicon.ico"}
 }
 
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
