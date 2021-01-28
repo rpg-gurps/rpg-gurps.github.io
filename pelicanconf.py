@@ -21,7 +21,7 @@ TIMEZONE = 'America/New_York'
 
 DEFAULT_LANG = 'en'
 
-THEME = "notmyidea"
+# THEME = "/pelican-themes/notmyidea"
 
 # ROBOTS = "index, follow"
 
@@ -75,8 +75,9 @@ EXTRA_PATH_METADATA = {
 THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
-USE_LESS = True
+USE_LESS = False
 
+LOAD_CONTENT_CACHE = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

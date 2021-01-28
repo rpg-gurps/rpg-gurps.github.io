@@ -5,7 +5,7 @@ category: Yirth
 tag: world, yirth
 
 
-![static ](images/logo_heros_rpg_s.jpeg) 
+![static style="float: center;"](images/logo_heros_rpg_s.jpeg) 
 
 #Prólogo
 
