@@ -1,6 +1,7 @@
 title:UMA BREVE HISTÓRIA DO MUNDO... de YRTH.
 author: Game Master (and GURPS Publisher)
 date: 01-13-2021
+category: Yirth
 
 
 ![static ](images/logo_heros_rpg_s.jpeg) 
